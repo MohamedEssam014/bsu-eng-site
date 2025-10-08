@@ -1,5 +1,7 @@
 # bsu-eng-site
+
 محتوى المشروع: موقع كلية الهندسة ثنائي اللغة (عربي/إنجليزي) — scaffold جاهز للتشغيل محليًا عبر Docker.
+
 bsu-eng-site/
 ├─ frontend/
 │ ├─ package.json
