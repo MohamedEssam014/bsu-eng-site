@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{direction: ltr}
+html[lang="ar"] body{direction: rtl}
